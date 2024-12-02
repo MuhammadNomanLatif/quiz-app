@@ -1,0 +1,93 @@
+[{
+    "question":"what is the largest solor palent in our solor system",
+    "answerOptions":[{
+        "text":"Saturn","isCorrect":false
+    },
+    {
+        "text":"Mars","isCorrect":false
+    },
+    {
+        "text":"Earth","isCorrect":false
+    },
+    {
+        "text":"Jupitur","isCorrect":true
+    }]
+},
+{
+    "question":"A flashing red traffic light signifies that a driver should do what?",
+    "answerOptions":[{
+        "text":"stop","isCorrect":true
+    },
+    {
+        "text":"speed up","isCorrect":false
+    },
+    {
+        "text":"proceed with caution","isCorrect":false
+    },
+    {
+        "text":"honk the horn","isCorrect":false
+    }]
+},
+{
+    "question":"A knish is traditionally stuffed with what filling?",
+    "answerOptions":[{
+        "text":"potato","isCorrect":true
+    },
+    {
+        "text":"creamed corn","isCorrect":false
+    },
+    {
+        "text":"lemon custard","isCorrect":false
+    },
+    {
+        "text":"raspberry jelly","isCorrect":false
+    }]
+},
+{
+    "question":"A pita is a type of what?",
+    "answerOptions":[{
+        "text":"fresh fruit","isCorrect":false
+    },
+    {
+        "text":"flat bread","isCorrect":true
+    },
+    {
+        "text":"French tart","isCorrect":false
+    },
+    {
+        "text":"friend bean dip","isCorrect":false
+    }]
+},
+
+{
+    "question":"A portrait that comically exaggerates a person's physical traits is called a what?",
+    "answerOptions":[{
+        "text":"sophomore","isCorrect":true
+    },
+    {
+        "text":"senior","isCorrect":false
+    },
+    {
+        "text":"freshman ","isCorrect":false
+    },
+    {
+        "text":"junior ","isCorrect":false
+    }]
+},
+{
+    "question":"According to a famous line from the existentialist play 'No Exit' what is hell?",
+    "answerOptions":[{
+        "text":"oneself","isCorrect":false
+    },
+    {
+        "text":"other people","isCorrect":true
+    },
+    {
+        "text":"little made large","isCorrect":false
+    },
+    {
+        "text":"hued in green and blue","isCorrect":false
+    }]
+}
+
+]
